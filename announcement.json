@@ -1,8 +1,10 @@
 {
-  "title": "\u5173\u4E8E\u542F\u52A8\u5668\u7684\u5929\u5927\u6D88\u606F",
-  "content": "\u5B98\u65B9\u9884\u8BA1\u4E8E8\u670810\u53F7\u4E4B\u524D\u5B8C\u5584\u8BE5\u542F\u52A8\u5668\u76841\u4E9B\u9AD8\u7EA7\u529F\u80FD,\u8FD8\u67091\u4E9B\u5E38\u7528\u529F\u80FD",
+  "id": "1785567155785",
+  "title": "关于启动器的天大消息",
+  "content": "官方预计于8月10号之前完善该启动器的1些高级功能,还有1些常用功能",
   "date": "2026-08-01 14:21:11",
   "version": "VoidLauncher",
   "important": false,
+  "pinned": false,
   "url": ""
 }
