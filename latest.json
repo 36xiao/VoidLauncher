@@ -1,10 +1,10 @@
 {
-  "version": "1",
-  "versionCode": 1,
-  "url": "https://github.com/36xiao/VoidLauncher/releases/download/v1/VoidLauncher.exe",
-  "changelog": "1",
-  "sha256": "53bbff274e78131d9dc6090ba001965d0a73ed2a26f34ce4c8569ed475cf02b3",
-  "size": 72921927,
-  "publishDate": "2026-08-01T07:23:22Z",
+  "version": "0.0.0",
+  "versionCode": 0,
+  "url": "",
+  "changelog": "\u6682\u65E0\u53EF\u7528\u7248\u672C",
+  "sha256": "",
+  "size": 0,
+  "publishDate": "2026-08-01T07:24:53Z",
   "prerelease": false
 }
