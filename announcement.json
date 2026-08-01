@@ -1,10 +1,10 @@
 {
-  "id": "1785567759439",
-  "title": "关于启动器的好消息",
-  "content": "这1次我们终于已连接上了服务器,不用1直观察我们更新了,只要启动启动器就知道有没有新版本了,并且后续的版本将继续在wakudemo平台上更新",
-  "date": "2026-08-01 15:02:39",
+  "id": "1785585259656",
+  "title": "官方诉言",
+  "content": "这个启动器bug太多了，你们可以反馈，我1个个地修复\uD83D\uDE2D，并且支持1下我[链接文字](https://wakudemo.cn/users/5959)[链接文字](https://space.bilibili.com/3546895723006823?spm_id_from=333.1007.0.0)",
+  "date": "2026-08-01 19:54:19",
   "version": "VoidLauncher",
-  "important": false,
+  "important": true,
   "pinned": false,
   "url": ""
 }
