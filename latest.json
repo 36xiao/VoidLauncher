@@ -1,10 +1,10 @@
 {
-  "version": "1.1.1",
-  "versionCode": 1,
-  "url": "https://github.com/36xiao/VoidLauncher/releases/download/v1.1.1/Plain.Craft.Launcher.2.exe",
-  "changelog": "1",
+  "version": "0.0.0",
+  "versionCode": 0,
+  "url": "",
+  "changelog": "\u6682\u65E0\u53EF\u7528\u7248\u672C",
   "sha256": "",
-  "size": 5645824,
-  "publishDate": "2026-08-01T07:43:16Z",
+  "size": 0,
+  "publishDate": "2026-08-01T07:54:50Z",
   "prerelease": false
 }
